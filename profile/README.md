@@ -71,9 +71,9 @@ Lead a workshop or design a roadmap. Help the next generation of Quantum student
 
 ## 📡 CONNECT TO THE GRID
 
-* **Terminal (GitHub):** [github.com/AetherCode-Society](https://www.google.com/search?q=https://github.com/AetherCode-Society)
-* **Network (LinkedIn):** [AetherCode Society Official](https://www.google.com/search?q=https://www.linkedin.com/company/aethercodesociety)
-* **Direct Link (Email):** [piyush@aethercode.dev](mailto:piyush@aethercode.dev)
+* **Terminal (GitHub):** [github.com/AetherCode-Society](https://github.com/aethercodesociety)
+* **Network (LinkedIn):** [AetherCode Society Official](https://www.linkedin.com/company/aethercodesociety)
+* **Direct Link (Email):** [piyush@aethercode.dev](mailto:piyushsinghgujjar2106@gmail.com)
 
 ---
 
